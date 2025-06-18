@@ -76,5 +76,3 @@ Always ensure you have **clear permission** to monitor a device.
 **Sreeram**
 
 For feedback or learning purposes only.
-
-```
