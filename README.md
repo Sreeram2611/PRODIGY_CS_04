@@ -1,5 +1,4 @@
 # Task - 4
-````bash
 # SREERAM'S SIMPLE KEYLOGGER (Educational Use Only)
 
 This is a basic keylogger written in Python using the `pynput` library. It captures keystrokes from the keyboard and logs them to a local text file along with timestamps.
